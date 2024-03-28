@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1094px" preserveAspectRatio="none" style="width:1253px;height:1094px;background:#FFFFFF;" version="1.1" viewBox="0 0 1253 1094" width="1253px" zoomAndPan="magnify"><defs/><g><!--MD5=[df801953c3eb52426c535e27a34580d5]
+cluster pys--><g id="cluster_pys"><rect height="494" rx="2.5" ry="2.5" style="stroke:#444444;stroke-width:1.0;fill:none;stroke-dasharray:7.0,7.0;" width="222" x="516" y="261"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="128" x="563" y="279.6094">PySocial System</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="51" x="601.5" y="295.582">[System]</text></g><!--MD5=[ef876daef8096df7f4ce46fa39b9e1a2]
+entity pyWeb--><g id="elem_pyWeb"><rect fill="#438DD5" height="90.4375" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="131" x="561.5" y="315"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="111" x="571.5" y="341.6094">PyWebView UI</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="51" x="601.5" y="357.582">[Python3]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="374.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="581" y="392.3613">UI da aplicação</text></g><!--MD5=[fd71a720deb277bbd1af72c03fa35a41]
+entity py--><g id="elem_py"><rect fill="#438DD5" height="90.4375" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="189" x="532.5" y="482"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="145" x="554.5" y="508.6094">Python Application</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="51" x="601.5" y="524.582">[Python3]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="541.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="546.5" y="559.3613">Core domain da aplicação</text></g><!--MD5=[734cf7e73ed9318c8e9ec5225b8633af]
+entity pyAcl--><g id="elem_pyAcl"><rect fill="#438DD5" height="90.4375" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="135" x="559.5" y="649"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="96" x="579" y="675.6094">API Interface</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="51" x="601.5" y="691.582">[Python3]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="708.752"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="573.5" y="726.3613">ACL da aplicação</text></g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#08427B" height="176.1719" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="207" x="523.5" y="7"/><image height="48" width="48" x="603" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="60" x="597" y="81.6094">Usuário</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="99.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="546.5" y="117.2676">Um usuário que possue a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="547.5" y="134.877">necessidade de enviar o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="533.5" y="152.4863">mesmo conteúdo para várias</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="583.5" y="170.0957">redes sociais.</text></g><!--MD5=[585917e793a1fe337a2a50e5f9ed7522]
+entity face--><g id="elem_face"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="7" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="64" y="859.6094">Facebook API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="115" y="877.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="21" y="895.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="47" y="912.877">rede social Facebook.</text></g><!--MD5=[f575475bb9b2a227ddc3b96a8d3fb34d]
+entity inst--><g id="elem_inst"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="262" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="319" y="859.6094">Instagram API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="370" y="877.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="276" y="895.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="302.5" y="912.877">rede social Instagram.</text></g><!--MD5=[fd07f395667725ff60a8c06b2c928ecc]
+entity x--><g id="elem_x"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="517" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="574" y="859.6094">X (Twiiter) API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="877.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="531" y="895.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="584.5" y="912.877">rede social X.</text></g><!--MD5=[2117018183c09a01edf82456b59260a5]
+entity tt--><g id="elem_tt"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="772" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="82" x="841" y="859.6094">TikTok API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="880" y="877.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="786" y="895.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="822" y="912.877">rede social TikTok.</text></g><!--MD5=[14a53e5de2f3a515d643c2a1018893cf]
+entity yt--><g id="elem_yt"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="1027" y="833"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="99" x="1087.5" y="859.6094">YouTube API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1135" y="877.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="1041" y="895.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1069.5" y="912.877">rede social YouTube.</text></g><!--MD5=[473f11c98570ddc1410bd9bc4b66bf6a]
+link pyWeb to py--><g id="link_pyWeb_py"><path d="M627,405.22 C627,426.29 627,451.65 627,473.68 " fill="none" id="pyWeb-to-py" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,481.95,630,473.95,624,473.95,627,481.95" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="628" y="448.457">Uses</text></g><!--MD5=[39d6a6c8b6a6dcd4921e1907d9f2a540]
+link py to pyAcl--><g id="link_py_pyAcl"><path d="M627,572.22 C627,593.29 627,618.65 627,640.68 " fill="none" id="py-to-pyAcl" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,648.95,630,640.95,624,640.95,627,648.95" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="29" x="628" y="615.457">Uses</text></g><!--MD5=[fbc8c276177d97d8a94fd81429bfb8de]
+link user to pyWeb--><g id="link_user_pyWeb"><path d="M627,183.21 C627,224.05 627,271.33 627,306.57 " fill="none" id="user-to-pyWeb" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,314.81,630,306.81,624,306.81,627,314.81" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="75" x="628" y="226.457">Interage com</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="19" x="656" y="241.5508">[UI]</text></g><!--MD5=[483eec5be0afa8f3fa55b9e74604b347]
+link pyAcl to face--><g id="link_pyAcl_face"><path d="M559.43,716.11 C512.97,730.87 449.99,751.38 395,771 C342.04,789.9 283.94,812.13 234.62,831.45 " fill="none" id="pyAcl-to-face" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="227.1,834.4,235.6429,834.2625,233.446,828.6791,227.1,834.4" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="411" y="784.457">requisita</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="396" y="799.5508">[JSON/HTTPS]</text></g><!--MD5=[7663349bf6f6eaa2d5a6226383662c38]
+link pyAcl to inst--><g id="link_pyAcl_inst"><path d="M565.6,739.19 C528.4,765.95 480.83,800.19 442.15,828.02 " fill="none" id="pyAcl-to-inst" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="435.53,832.78,443.7748,830.5387,440.2681,825.6701,435.53,832.78" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="531" y="784.457">requisita</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="516" y="799.5508">[JSON/HTTPS]</text></g><!--MD5=[577866a7e55ab679ceb599ce297f6ac2]
+link pyAcl to x--><g id="link_pyAcl_x"><path d="M627,739.42 C627,765.09 627,797.56 627,824.67 " fill="none" id="pyAcl-to-x" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,832.89,630,824.89,624,824.89,627,832.89" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="643" y="784.457">requisita</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="628" y="799.5508">[JSON/HTTPS]</text></g><!--MD5=[edbb0970577f5f34a35f665a12ea2d0a]
+link pyAcl to tt--><g id="link_pyAcl_tt"><path d="M688.4,739.19 C725.6,765.95 773.17,800.19 811.85,828.02 " fill="none" id="pyAcl-to-tt" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="818.47,832.78,813.7319,825.6701,810.2252,830.5387,818.47,832.78" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="786" y="784.457">requisita</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="771" y="799.5508">[JSON/HTTPS]</text></g><!--MD5=[75306bdb9a51061fb1c0b9bfc4c17bb5]
+link pyAcl to yt--><g id="link_pyAcl_yt"><path d="M694.63,715.98 C741.31,730.72 804.7,751.27 860,771 C912.68,789.8 970.43,811.96 1019.5,831.26 " fill="none" id="pyAcl-to-yt" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1026.99,834.21,1020.644,828.4891,1018.4471,834.0725,1026.99,834.21" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="961" y="784.457">requisita</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="80" x="946" y="799.5508">[JSON/HTTPS]</text></g><rect height="139.2656" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="133" x="1098" y="938.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="1104" y="961.4863">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1157" y="961.4863"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="964.5625"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1108" y="979.0957">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="982.1719"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1108" y="996.7051">system</text><rect fill="#438DD5" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="999.7813"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="1108" y="1014.3145">container</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="1017.3906"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1108" y="1031.9238">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="1035"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1108" y="1049.5332">external system</text><rect fill="#B3B3B3" height="17.6094" style="stroke:none;stroke-width:1.0;" width="121" x="1104" y="1052.6094"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="1108" y="1067.1426">external container</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="946.9531" y2="946.9531"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="964.5625" y2="964.5625"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="982.1719" y2="982.1719"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="999.7813" y2="999.7813"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="1017.3906" y2="1017.3906"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="1035" y2="1035"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="1052.6094" y2="1052.6094"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1225" y1="1070.2188" y2="1070.2188"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1104" x2="1104" y1="946.9531" y2="1070.2188"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1225" x2="1225" y1="946.9531" y2="1070.2188"/><!--MD5=[d84a0cd1768b34996afb20f8e6a689be]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(user, "Usuário", "Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais.")
+System_Ext(face, "Facebook API", "Interface de comunicação com rede social Facebook.")
+System_Ext(inst, "Instagram API", "Interface de comunicação com rede social Instagram.")
+System_Ext(x, "X (Twiiter) API", "Interface de comunicação com rede social X.")
+System_Ext(tt, "TikTok API", "Interface de comunicação com rede social TikTok.")
+System_Ext(yt, "YouTube API", "Interface de comunicação com rede social YouTube.")
+
+System_Boundary(pys, "PySocial System") {
+    Container(pyWeb, "PyWebView UI", "Python3", "UI da aplicação")
+    Container(py, "Python Application", "Python3", "Core domain da aplicação")
+    Container(pyAcl, "API Interface", "Python3", "ACL da aplicação")
+
+    Rel(pyWeb, py, "Uses")
+    Rel(py, pyAcl, "Uses")
+}
+
+Rel(user, pyWeb, "Interage com", "UI")
+Rel(pyAcl, face, "requisita", "JSON/HTTPS")
+Rel(pyAcl, inst, "requisita", "JSON/HTTPS")
+Rel(pyAcl, x, "requisita", "JSON/HTTPS")
+Rel(pyAcl, tt, "requisita", "JSON/HTTPS")
+Rel(pyAcl, yt, "requisita", "JSON/HTTPS")
+
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam queue<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam database<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+skinparam queue<<external_container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #B3B3B3
+    BorderColor #A6A6A6
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system |
+|<#438DD5> container |
+|<#686868> external person |
+|<#999999> external system |
+|<#B3B3B3> external container |
+endlegend
+
+rectangle "<$person>\n==Usuário\n\n Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais." <<person>> as user
+rectangle "==Facebook API\n\n Interface de comunicação com rede social Facebook." <<external_system>> as face
+rectangle "==Instagram API\n\n Interface de comunicação com rede social Instagram." <<external_system>> as inst
+rectangle "==X (Twiiter) API\n\n Interface de comunicação com rede social X." <<external_system>> as x
+rectangle "==TikTok API\n\n Interface de comunicação com rede social TikTok." <<external_system>> as tt
+rectangle "==YouTube API\n\n Interface de comunicação com rede social YouTube." <<external_system>> as yt
+
+rectangle "==PySocial System\n<size:12>[System]</size>" <<boundary>> as pys {
+    rectangle "==PyWebView UI\n//<size:12>[Python3]</size>//\n\n UI da aplicação" <<container>> as pyWeb
+    rectangle "==Python Application\n//<size:12>[Python3]</size>//\n\n Core domain da aplicação" <<container>> as py
+    rectangle "==API Interface\n//<size:12>[Python3]</size>//\n\n ACL da aplicação" <<container>> as pyAcl
+
+pyWeb - ->> py : **Uses**
+py - ->> pyAcl : **Uses**
+}
+
+user - ->> pyWeb : **Interage com**\n//<size:12>[UI]</size>//
+pyAcl - ->> face : **requisita**\n//<size:12>[JSON/HTTPS]</size>//
+pyAcl - ->> inst : **requisita**\n//<size:12>[JSON/HTTPS]</size>//
+pyAcl - ->> x : **requisita**\n//<size:12>[JSON/HTTPS]</size>//
+pyAcl - ->> tt : **requisita**\n//<size:12>[JSON/HTTPS]</size>//
+pyAcl - ->> yt : **requisita**\n//<size:12>[JSON/HTTPS]</size>//
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: pt
+Country: BR
+--></g></svg>

@@ -1,0 +1,29 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(user, "Usuário", "Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais.")
+System_Ext(face, "Facebook API", "Interface de comunicação com rede social Facebook.")
+System_Ext(inst, "Instagram API", "Interface de comunicação com rede social Instagram.")
+System_Ext(x, "X (Twiiter) API", "Interface de comunicação com rede social X.")
+System_Ext(tt, "TikTok API", "Interface de comunicação com rede social TikTok.")
+System_Ext(yt, "YouTube API", "Interface de comunicação com rede social YouTube.")
+
+System_Boundary(pys, "PySocial System") {
+    Container(pyWeb, "PyWebView UI", "Python3", "UI da aplicação")
+    Container(py, "Python Application", "Python3", "Core domain da aplicação")
+    Container(pyAcl, "API Interface", "Python3", "ACL da aplicação")
+
+    Rel(pyWeb, py, "Uses")
+    Rel(py, pyAcl, "Uses")
+}
+
+Rel(user, pyWeb, "Interage com", "UI")
+Rel(pyAcl, face, "requisita", "JSON/HTTPS")
+Rel(pyAcl, inst, "requisita", "JSON/HTTPS")
+Rel(pyAcl, x, "requisita", "JSON/HTTPS")
+Rel(pyAcl, tt, "requisita", "JSON/HTTPS")
+Rel(pyAcl, yt, "requisita", "JSON/HTTPS")
+
+@enduml

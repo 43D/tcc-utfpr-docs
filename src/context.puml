@@ -1,0 +1,20 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(user, "Usuário", "Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais.")
+System(pys, "PySocial System", "Sistema cliente que gerencia contas de redes sociais e seus conteúdos digitais.")
+System_Ext(face, "Facebook API", "Interface de comunicação com rede social Facebook.")
+System_Ext(inst, "Instagram API", "Interface de comunicação com rede social Instagram.")
+System_Ext(x, "X (Twiiter) API", "Interface de comunicação com rede social X.")
+System_Ext(tt, "TikTok API", "Interface de comunicação com rede social TikTok.")
+System_Ext(yt, "YouTube API", "Interface de comunicação com rede social YouTube.")
+
+Rel(user, pys, "interage com")
+Rel(pys, face, "intrega a")
+Rel(pys, inst, "intrega a")
+Rel(pys, x, "intrega a")
+Rel(pys, tt, "intrega a")
+Rel(pys, yt, "intrega a")
+@enduml

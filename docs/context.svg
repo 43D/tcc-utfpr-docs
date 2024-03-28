@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="674px" preserveAspectRatio="none" style="width:1253px;height:674px;background:#FFFFFF;" version="1.1" viewBox="0 0 1253 674" width="1253px" zoomAndPan="magnify"><defs/><g><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><g id="elem_user"><rect fill="#08427B" height="176.1719" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="207" x="523.5" y="7"/><image height="48" width="48" x="603" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="17"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="60" x="597" y="81.6094">Usuário</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="99.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="546.5" y="117.2676">Um usuário que possue a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="547.5" y="134.877">necessidade de enviar o</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="533.5" y="152.4863">mesmo conteúdo para várias</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="583.5" y="170.0957">redes sociais.</text></g><!--MD5=[663e4f35bf38d3ca0f1e8add2b12b294]
+entity pys--><g id="elem_pys"><rect fill="#1168BD" height="110.5625" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="219" x="517.5" y="260"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="128" x="563" y="286.6094">PySocial System</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="304.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="182" x="536" y="322.2676">Sistema cliente que gerencia</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="527.5" y="339.877">contas de redes sociais e seus</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="568" y="357.4863">conteúdos digitais.</text></g><!--MD5=[585917e793a1fe337a2a50e5f9ed7522]
+entity face--><g id="elem_face"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="7" y="448"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="64" y="474.6094">Facebook API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="115" y="492.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="21" y="510.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="47" y="527.877">rede social Facebook.</text></g><!--MD5=[f575475bb9b2a227ddc3b96a8d3fb34d]
+entity inst--><g id="elem_inst"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="262" y="448"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="319" y="474.6094">Instagram API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="370" y="492.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="276" y="510.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="139" x="302.5" y="527.877">rede social Instagram.</text></g><!--MD5=[fd07f395667725ff60a8c06b2c928ecc]
+entity x--><g id="elem_x"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="517" y="448"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="106" x="574" y="474.6094">X (Twiiter) API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="625" y="492.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="531" y="510.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="584.5" y="527.877">rede social X.</text></g><!--MD5=[2117018183c09a01edf82456b59260a5]
+entity tt--><g id="elem_tt"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="772" y="448"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="82" x="841" y="474.6094">TikTok API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="880" y="492.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="786" y="510.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="822" y="527.877">rede social TikTok.</text></g><!--MD5=[14a53e5de2f3a515d643c2a1018893cf]
+entity yt--><g id="elem_yt"><rect fill="#999999" height="92.9531" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="220" x="1027" y="448"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="99" x="1087.5" y="474.6094">YouTube API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1135" y="492.6582"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="1041" y="510.2676">Interface de comunicação com</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1069.5" y="527.877">rede social YouTube.</text></g><!--MD5=[d9d5b96edc2ceab4b7e80ec229f8ab24]
+link user to pys--><g id="link_user_pys"><path d="M627,183.3 C627,206.17 627,230.38 627,251.7 " fill="none" id="user-to-pys" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,259.71,630,251.71,624,251.71,627,259.71" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="75" x="628" y="226.457">interage com</text></g><!--MD5=[47be975c88a9cde635a5f8e0cf85c11d]
+link pys to face--><g id="link_pys_face"><path d="M517.49,353.67 C440.82,379.79 336.05,415.71 244,448 C240.98,449.06 237.92,450.14 234.83,451.22 " fill="none" id="pys-to-face" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="227.11,453.95,235.6523,454.1215,233.6587,448.4624,227.11,453.95" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="372" y="414.457">intrega a</text></g><!--MD5=[a9fcfa7ad2f9d8edaa417888e2d35d91]
+link pys to inst--><g id="link_pys_inst"><path d="M548.41,371.05 C515.35,394 477.11,420.54 444.71,443.03 " fill="none" id="pys-to-inst" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="437.89,447.77,446.1704,445.6642,442.744,440.7388,437.89,447.77" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="501" y="414.457">intrega a</text></g><!--MD5=[e6aa7b80f8cbdbca205cee4108878643]
+link pys to x--><g id="link_pys_x"><path d="M627,371.05 C627,392.85 627,417.88 627,439.61 " fill="none" id="pys-to-x" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="627,447.77,630,439.77,624,439.77,627,447.77" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="628" y="414.457">intrega a</text></g><!--MD5=[d7ae93a925f8c6e69853afc1d518f4a7]
+link pys to tt--><g id="link_pys_tt"><path d="M705.59,371.05 C738.65,394 776.89,420.54 809.29,443.03 " fill="none" id="pys-to-tt" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="816.11,447.77,811.256,440.7388,807.8296,445.6642,816.11,447.77" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="770" y="414.457">intrega a</text></g><!--MD5=[dd75e18b5cc1016b85eade7d29da349a]
+link pys to yt--><g id="link_pys_yt"><path d="M736.51,353.67 C813.18,379.79 917.95,415.71 1010,448 C1013.02,449.06 1016.08,450.14 1019.17,451.22 " fill="none" id="pys-to-yt" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="1026.89,453.95,1020.3413,448.4624,1018.3477,454.1215,1026.89,453.95" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="50" x="916" y="414.457">intrega a</text></g><rect height="104.0469" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="118" x="1113" y="553.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="1119" y="576.4863">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1172" y="576.4863"> </text><rect fill="#08427B" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="1119" y="579.5625"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1123" y="594.0957">person</text><rect fill="#1168BD" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="1119" y="597.1719"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1123" y="611.7051">system</text><rect fill="#686868" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="1119" y="614.7813"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1123" y="629.3145">external person</text><rect fill="#999999" height="17.6094" style="stroke:none;stroke-width:1.0;" width="106" x="1119" y="632.3906"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1123" y="646.9238">external system</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="561.9531" y2="561.9531"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="579.5625" y2="579.5625"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="597.1719" y2="597.1719"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="614.7813" y2="614.7813"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="632.3906" y2="632.3906"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1225" y1="650" y2="650"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1119" x2="1119" y1="561.9531" y2="650"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1225" x2="1225" y1="561.9531" y2="650"/><!--MD5=[a8a89b4a303ffa9b1e202218099fbb2b]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+Person(user, "Usuário", "Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais.")
+System(pys, "PySocial System", "Sistema cliente que gerencia contas de redes sociais e seus conteúdos digitais.")
+System_Ext(face, "Facebook API", "Interface de comunicação com rede social Facebook.")
+System_Ext(inst, "Instagram API", "Interface de comunicação com rede social Instagram.")
+System_Ext(x, "X (Twiiter) API", "Interface de comunicação com rede social X.")
+System_Ext(tt, "TikTok API", "Interface de comunicação com rede social TikTok.")
+System_Ext(yt, "YouTube API", "Interface de comunicação com rede social YouTube.")
+
+Rel(user, pys, "interage com")
+Rel(pys, face, "intrega a")
+Rel(pys, inst, "intrega a")
+Rel(pys, x, "intrega a")
+Rel(pys, tt, "intrega a")
+Rel(pys, yt, "intrega a")
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+rectangle "<$person>\n==Usuário\n\n Um usuário que possue a necessidade de enviar o mesmo conteúdo para várias redes sociais." <<person>> as user
+rectangle "==PySocial System\n\n Sistema cliente que gerencia contas de redes sociais e seus conteúdos digitais." <<system>> as pys
+rectangle "==Facebook API\n\n Interface de comunicação com rede social Facebook." <<external_system>> as face
+rectangle "==Instagram API\n\n Interface de comunicação com rede social Instagram." <<external_system>> as inst
+rectangle "==X (Twiiter) API\n\n Interface de comunicação com rede social X." <<external_system>> as x
+rectangle "==TikTok API\n\n Interface de comunicação com rede social TikTok." <<external_system>> as tt
+rectangle "==YouTube API\n\n Interface de comunicação com rede social YouTube." <<external_system>> as yt
+
+user - ->> pys : **interage com**
+pys - ->> face : **intrega a**
+pys - ->> inst : **intrega a**
+pys - ->> x : **intrega a**
+pys - ->> tt : **intrega a**
+pys - ->> yt : **intrega a**
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 13:10:57 BRT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: pt
+Country: BR
+--></g></svg>
