@@ -1,9 +1,7 @@
 # PySocial
 
-# SwiftSend
-
 **Acesso a documentação:**
-[Acesse aqui](https://43d.github.io/tcc-utfpr-2024/#/)
+[Acesse aqui](https://43d.github.io/tcc-utfpr-docs/#/)
 
 <hr>
 
